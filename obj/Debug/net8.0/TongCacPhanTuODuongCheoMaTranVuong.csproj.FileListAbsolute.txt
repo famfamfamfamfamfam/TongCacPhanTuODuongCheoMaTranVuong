@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\bin\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.exe
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\bin\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\bin\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\bin\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\bin\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\refint\TongCacPhanTuODuongCheoMaTranVuong.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\TongCacPhanTuODuongCheoMaTranVuong.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TongCacPhanTuODuongCheoMaTranVuong\obj\Debug\net8.0\ref\TongCacPhanTuODuongCheoMaTranVuong.dll
